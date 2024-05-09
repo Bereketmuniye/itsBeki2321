@@ -28,9 +28,9 @@ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/de
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beki_man&show_icons=true&locale=en" alt="beki_man" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket repo&show_icons=true&locale=en" alt="beki_man" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beki_man" alt="beki_man" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket repor" alt="beki_man" />
 </p>
