@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+![image](https://github.com/Bereketmuniye/itsBeki2321/assets/107196062/717e3b68-a557-436e-94e5-9c49528914c0)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Muniye!;" />
@@ -28,9 +28,9 @@ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/de
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket repo&show_icons=true&locale=en" alt="beki_man" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beki_man&show_icons=true&locale=en" alt="beki_man" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket repor" alt="beki_man" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beki_man" alt="beki_man" />
 </p>
